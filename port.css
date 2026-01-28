@@ -2,9 +2,10 @@
 
 #home{
     margin-top: 50px;
-    height: 50vh;
+    height: 100vh;
     background: linear-gradient(to right, rgb(243, 190, 199), rgb(187, 89, 187));
 }
 #skills{
     margin-top: 70px;
+
 }
