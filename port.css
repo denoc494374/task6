@@ -1,14 +1,18 @@
 
 
 #home{
-    margin-top: 70px;
+    
     height: 100vh;
     background: linear-gradient(to right, rgb(243, 190, 199), rgb(187, 89, 187));
+
+    .container{
+        top: 30%;
+        position: absolute;
+        text-align: center;
+        font-size: 20px;
+        position: relative;
+    }
 }
 #skills{
     margin-top: 70px;
-
 }
-
-
-
